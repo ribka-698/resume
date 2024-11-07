@@ -1,0 +1,28 @@
+.one{
+    color:#00b8d4;
+
+}
+.two{
+    background-image: url(https://images.unsplash.com/photo-1530092285049-1c42085fd395?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+    /*background: radial-gradient(to top,yellow,red);*/
+    /*background:linear-gradient(to top,yellow,pin,blue,red);
+    background-color: pink;
+    width: 100vw;
+    height: 100vh;*/
+}
+.one{
+    /*width:100vw;
+    height:40vh;
+}
+#first{
+    background-color: orange;
+}
+#second{
+    background-color: white;
+}
+#third{
+    background-color: green;*/
+}
